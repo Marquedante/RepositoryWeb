@@ -1,0 +1,8 @@
+
+Prime faces Icons:
+
+http://www.petefreitag.com/cheatsheets/jqueryui-icons/
+
+https://api.jqueryui.com/theming/icons/
+
+http://jqueryui.com/themeroller/

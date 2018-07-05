@@ -1,0 +1,4 @@
+
+
+Site que gera vários gifs de barra de status:
+http://www.ajaxload.info 
